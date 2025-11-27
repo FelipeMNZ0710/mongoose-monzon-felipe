@@ -1,0 +1,26 @@
+{
+  "name": "nueva-carpeta-(3)",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000o\u0000n\u0000g\u0000o\u0000o\u0000s\u0000e\u0000-\u0000m\u0000o\u0000n\u0000z\u0000o\u0000n\u0000-\u0000f\u0000e\u0000l\u0000i\u0000p\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeMNZ0710/mongoose-monzon-felipe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FelipeMNZ0710/mongoose-monzon-felipe/issues"
+  },
+  "homepage": "https://github.com/FelipeMNZ0710/mongoose-monzon-felipe#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^9.0.0"
+  }
+}
